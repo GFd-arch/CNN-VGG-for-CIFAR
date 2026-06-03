@@ -2,8 +2,6 @@
 The 2nd project of the course Neural Net and Deep Learning,Fudan Univ.
 
 
-# VGG_BatchNorm Project Overview
-
 ## Project Summary
 This is a CIFAR-10 based deep learning experiment project designed to compare different model architectures, optimizers, and batch normalization effects on training performance. The project contains two main components:
 
